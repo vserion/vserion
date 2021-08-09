@@ -1,4 +1,4 @@
-### Olá, eu sou a Daniela Matus 👩‍💻
+### Hiiii, I'm Daniela 👩‍💻
 
 - 🌱 I’m currently learning python, C
 - 😄 Pronouns: she/her
