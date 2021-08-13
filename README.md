@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning python, C
 - 😄 Pronouns: she/her
+- 🎮 I like to play League of Legends
 - 👾 <a href = "https://beacons.page/vserion/">Visit my Beacons </a>
 
  <div>
