@@ -5,11 +5,6 @@
 - 🎮 I like to play sometimes 
 - 👾 42, always 42.
 
- <div>
-  <a href = "https://github.com/vserion">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=vserion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vserion&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   ###
   <div>
