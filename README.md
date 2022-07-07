@@ -1,9 +1,9 @@
 ### Hiiii, I'm Daniela 👩‍💻
 
-- 🌱 I’m currently learning python, C
+- 🌱 I like to program in COBOL, C and Python
 - 😄 Pronouns: she/her
 - 🎮 I like to play sometimes 
-- 👾 <a href = "https://beacons.page/vserion/">Visit my Beacons </a>
+- 👾 42, always 42.
 
  <div>
   <a href = "https://github.com/vserion">
