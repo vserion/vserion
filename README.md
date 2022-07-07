@@ -1,10 +1,9 @@
-### Hiiii, I'm Daniela 👩‍💻
+### Hiiii, I'm Dani 👩‍💻
 
+- 😄 I'm a z/OS system programmer and also translator (english - spanish - brazilian portuguese). 
 - 🌱 I like to program in COBOL, C and Python
-- 😄 Pronouns: she/her
-- 🎮 I like to play sometimes 
-- 👾 42, always 42.
-
+- 🎮 I like to play sometimes... stardew valley and the witcher 3 are my babies, I love them so much!
+- 👾 42, always 42. 
   
   ###
   <div>
@@ -14,5 +13,3 @@
     <a href = "https://medium.com/@vserion"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target = "_blank"></a>
     <a href = "https://t.me/vserion"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target = "_blank"></a>
   </div>
-
-  
