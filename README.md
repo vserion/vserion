@@ -1,7 +1,7 @@
 ### Hiiii, I'm Dani 👩‍💻
 
 - 😄 I'm a z/OS system programmer and also translator (english - spanish - brazilian portuguese). 
-- 🌱 I like to program in COBOL, C and Python
+- 🌱 I like to program in C and Python
 - 🎮 I like to play sometimes... stardew valley and the witcher 3 are my favorite ones, I love them so much!
 - 👾 42, always 42. 
   
