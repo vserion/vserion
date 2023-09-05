@@ -1,6 +1,6 @@
 ### Hiiii, I'm Dani 👩‍💻
 
-- 😄 I'm a z/OS system programmer and also translator (english - spanish - brazilian portuguese). 
+- 😄 I'm a z/OS system programmer and a translator (english - spanish - brazilian portuguese). 
 - 🌱 I like to program in C and Python
 - 👾 42, always 42. 
   
